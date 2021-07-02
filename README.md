@@ -12,28 +12,28 @@ compatible with existing stl, just replace `std::<container>` with `std::threads
 
 #### Sequence Containers
 
-[ ] Array
-[x] Vector
-[x] Deque
-[ ] Forward List
-[ ] List
+- [ ] Array
+- [x] Vector
+- [x] Deque
+- [ ] Forward List
+- [ ] List
 
 #### Container Adaptors
 
-[ ] Stack
-[ ] Queue
-[ ] Priority Queue
+- [ ] Stack
+- [ ] Queue
+- [ ] Priority Queue
 
 #### Associative Containers
 
-[ ] Set
-[ ] Multiset
-[ ] Map
-[ ] Multimap
+- [ ] Set
+- [ ] Multiset
+- [ ] Map
+- [ ] Multimap
 
 #### Unordered Associative Containers
 
-[ ] Unordered Set
-[ ] Unordered Multiset
-[ ] Unordered Map
-[ ] Unordered Multimap
+- [ ] Unordered Set
+- [ ] Unordered Multiset
+- [ ] Unordered Map
+- [ ] Unordered Multimap
