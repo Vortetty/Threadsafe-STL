@@ -1,6 +1,6 @@
 # Threadsafe-STL
 
-Threadsafe versions of C++17 STL containers.
+Threadsafe versions of C++ STL containers, tested in C++17.
 
 Essentially thin wrappers around the existing STL, that add a mutex so that youi can't read and write simutaniously.
 
